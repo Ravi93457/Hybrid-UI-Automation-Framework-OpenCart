@@ -58,3 +58,36 @@ The framework follows a Hybrid design combining:
 ## ⚙️ Execution
 
 Run using Maven:
+
+Parallel execution supported via TestNG configuration.
+
+---
+
+## 📊 Reporting
+
+- Extent HTML Reports generated after execution
+- Screenshots captured on failure
+- Logs integrated for debugging
+
+---
+
+## 🔁 CI/CD Integration
+
+- Configured Jenkins pipeline for automated execution
+- Docker container support for headless execution
+
+---
+
+## 📸 Sample Report
+
+(<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b628d236-894f-424b-8f3f-bf8b62fdb746" />
+)
+
+---
+
+## 🎯 Key Highlights
+
+- Reusable Page Objects
+- Data-Driven architecture
+- CI-integrated automation
+- Scalable & maintainable framework design

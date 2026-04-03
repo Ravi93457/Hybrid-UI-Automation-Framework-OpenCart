@@ -54,12 +54,42 @@ The framework follows a Hybrid design combining:
 30+ end-to-end test scenarios automated.
 
 ---
+---
+## 📂 Project Structure
 
+src
+ ├── main/java
+ │    ├── base            → Driver setup & initialization
+ │    ├── pageObjects     → Page classes (POM)
+ │    ├── utilities       → Reusable utilities
+ │
+ ├── test/java
+ │    ├── testCases       → Test scripts
+ │
+ ├── resources
+ │    ├── testData        → Excel files
+ │    ├── config          → Configuration files
+
+testng.xml
+pom.xml
+---
 ## ⚙️ Execution
 
-Run using Maven:
+## ▶️ How to Execute Tests
 
-Parallel execution supported via TestNG configuration.
+### Run via Maven:
+mvn clean test
+
+### Run specific TestNG suite:
+testng.xml
+
+### Run in Jenkins:
+- Configure job with GitHub repo
+- Trigger build to execute test suite
+
+### Run using Docker:
+docker build -t automation-framework .
+docker run automation-framework
 
 ---
 

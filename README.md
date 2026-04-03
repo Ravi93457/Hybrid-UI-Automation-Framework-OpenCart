@@ -1,3 +1,5 @@
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Java](https://img.shields.io/badge/Java-17-blue)
 # Hybrid UI Automation Framework – OpenCart
 
 ## 📌 Project Overview
@@ -51,7 +53,7 @@ The framework follows a Hybrid design combining:
 - Checkout Process
 - Order Confirmation
 
-30+ end-to-end test scenarios automated.
+ Automated 30+ end-to-end test scenarios covering critical business flows
 
 ---
 ---
@@ -110,9 +112,15 @@ docker run automation-framework
 
 ## 📸 Sample Report
 
-(<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/b628d236-894f-424b-8f3f-bf8b62fdb746" />
-)
+![Extent Report](https://github.com/user-attachments/assets/b628d236-894f-424b-8f3f-bf8b62fdb746)
+---
+---
+## 💡 Why This Framework?
 
+- Designed for scalability in large test suites
+- Reduces code duplication using reusable components
+- Easy to integrate with CI/CD pipelines
+- Supports parallel execution to reduce execution time
 ---
 
 ## 🎯 Key Highlights

@@ -128,13 +128,18 @@ docker run automation-framework
 ---
 
 ## 🎯 Key Highlights
-## 👨‍💻 Author
 
-Ravishankar.E
-Automation Test Engineer 
 
 - Reusable Page Objects
 - Data-Driven architecture
 - CI-integrated automation
 - Scalable & maintainable framework design
 🚀 A production-ready Hybrid Test Automation Framework for OpenCart built using Selenium, TestNG, and Java.
+---
+## 👨‍💻 Author
+
+Ravishankar.E
+Automation Test Engineer 
+
+
+

@@ -1,11 +1,8 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-blue)
 # Hybrid UI Automation Framework – OpenCart
-
-## 👨‍💻 Author
-
-Ravishankar.E
-Automation Test Engineer  
+🚀 A production-ready Hybrid Test Automation Framework for OpenCart built using Selenium, TestNG, and Java, designed for scalability and CI/CD integration.
+ 
 ## 📌 Project Overview
 
 This project is a scalable Hybrid Automation Framework developed for the OpenCart E-Commerce application using Selenium WebDriver with Java.
@@ -59,7 +56,7 @@ The framework follows a Hybrid design combining:
 
  Automated 30+ end-to-end test scenarios covering critical business flows
 
----
+
 ---
 ## 📂 Project Structure
 
@@ -80,7 +77,7 @@ testng.xml
 pom.xml
 ---
 
----
+
 ### Clone the repository:
 git clone https://github.com/Ravi93457/Hybrid-UI-Automation-Framework-OpenCart.git
 ---
@@ -121,7 +118,7 @@ docker run automation-framework
 
 ![Extent Report](https://github.com/user-attachments/assets/b628d236-894f-424b-8f3f-bf8b62fdb746)
 ---
----
+
 ## 💡 Why This Framework?
 
 - Designed for scalability in large test suites
@@ -131,6 +128,10 @@ docker run automation-framework
 ---
 
 ## 🎯 Key Highlights
+## 👨‍💻 Author
+
+Ravishankar.E
+Automation Test Engineer 
 
 - Reusable Page Objects
 - Data-Driven architecture
